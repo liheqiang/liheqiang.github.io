@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://liheqiang.github.io
+title: coderHQLee的技术博客
+subtitle: Hi 大家好，我是一个iOS开发新人，现居四川成都，这个博客是用来记录自己成长的过程，收获分享知识的乐趣
+author: 李禾强
 simple_search: https://www.google.com/search
 description:
 
